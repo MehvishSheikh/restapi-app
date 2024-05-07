@@ -3,7 +3,7 @@
     {
       "type": "Brain Tumor",
       "description": "Brain tumors are abnormal growths of cells in the brain or spinal cord. They can be benign (non-cancerous) or malignant (cancerous).",
-      "image_url": "https://example.com/brain_tumor.jpg",
+      "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.findatopdoc.com%2FHealthy-Living%2FBrain-Tumor-Types-Causes-Symptoms-Diagnosis-and-Treatment&psig=AOvVaw3ILRUJ_UY3_0VQRikXchBy&ust=1715176489585000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjPkcXY-4UDFQAAAAAdAAAAABAK",
       "tumors": [
         {
           "type": "Meningioma",
