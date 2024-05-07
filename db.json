@@ -1,1 +1,112 @@
+{
+  "tumors": [
+    {
+      "type": "Brain Tumor",
+      "tumors": [
+        {
+          "name": "Meningioma",
+          "percentage": "36%",
+          "causes": "Genetics, Hormonal changes, Radiation exposure",
+          "treatments": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy"
+          ],
+          "info": "Meningiomas are usually slow-growing tumors that arise from the meninges, the protective covering of the brain and spinal cord.",
+          "image_url": "https://example.com/meningioma.jpg"
+        },
+        {
+          "name": "Glioblastoma",
+          "percentage": "15%",
+          "causes": "Unknown",
+          "treatments": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy"
+          ],
+          "info": "Glioblastoma is a fast-growing type of tumor that forms from supportive tissue of the brain.",
+          "image_url": "https://example.com/glioblastoma.jpg"
+        },
+        {
+          "name": "Pituitary Tumor",
+          "percentage": "9%",
+          "causes": "Genetics, Pituitary adenomas",
+          "treatments": [
+            "Medication",
+            "Surgery",
+            "Radiation therapy"
+          ],
+          "info": "Pituitary tumors are abnormal growths that develop in your pituitary gland, a small bean-shaped gland at the base of your brain.",
+          "image_url": "https://example.com/pituitary_tumor.jpg"
+        },
+        {
+          "name": "Oligodendroglioma",
+          "percentage": "5%",
+          "causes": "Genetic mutations",
+          "treatments": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy"
+          ],
+          "info": "Oligodendroglioma is a type of brain tumor that originates in the cells that produce myelin, a fatty covering that protects nerves in the brain.",
+          "image_url": "https://example.com/oligodendroglioma.jpg"
+        },
+        {
+          "name": "Anaplastic Astrocytoma",
+          "percentage": "7%",
+          "causes": "Genetic mutations, Environmental factors",
+          "treatments": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy"
+          ],
+          "info": "Anaplastic astrocytoma is a type of brain tumor that arises from astrocytes, star-shaped cells that support nerve cells.",
+          "image_url": "https://example.com/anaplastic_astrocytoma.jpg"
+        }
+      ]
+    },
+    {
+      "type": "Breast Cancer",
+      "tumors": [
+        {
+          "name": "Ductal Carcinoma",
+          "percentage": "60%",
+          "causes": "Genetics, Hormonal factors, Environmental factors",
+          "treatments": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy",
+            "Hormone therapy",
+            "Targeted therapy"
+          ],
+          "info": "Ductal carcinoma is the most common type of breast cancer, originating in the milk ducts of the breast.",
+          "image_url": "https://example.com/ductal_carcinoma.jpg"
+        },
+        {
+          "name": "Inflammatory Breast Cancer",
+          "percentage": "5%",
+          "causes": "Unknown",
+          "treatments": [
+            "Chemotherapy",
+            "Surgery",
+            "Radiation therapy"
+          ],
+          "info": "Inflammatory breast cancer is a rare and aggressive form of breast cancer that causes the breast to appear red and swollen.",
+          "image_url": "https://example.com/inflammatory_breast_cancer.jpg"
+        }
+      ]
+    },
+    {
+      "type": "No Tumor",
+      "tumors": [
+        {
+          "name": "No Tumor",
+          "percentage": "40%",
+          "info": "No tumor present in the brain.",
+          "image_url": "https://example.com/no_tumor.jpg"
+        }
+      ]
+    }
+  ]
+}
 
