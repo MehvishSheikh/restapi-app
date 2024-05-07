@@ -29,7 +29,7 @@
             "Chemotherapy"
           ],
           "info": "Glioblastoma is a fast-growing type of tumor that forms from supportive tissue of the brain.",
-          "image_url": "https://example.com/glioblastoma.jpg"
+          "image_url": "https://glioblastomafoundation.org/wp-content/uploads/2021/08/shutterstock_1080095912-1-300x225.jpg"
         },
         {
           "type": "Pituitary Tumor",
@@ -42,7 +42,7 @@
             "Radiation therapy"
           ],
           "info": "Pituitary tumors are abnormal growths that develop in your pituitary gland, a small bean-shaped gland at the base of your brain.",
-          "image_url": "https://example.com/pituitary_tumor.jpg"
+          "image_url": "https://www.cancer.org/adobe/dynamicmedia/deliver/dm-aid--adba1e44-0f3e-44c0-b4cc-91be92c31a29/pituitary.gif?quality=82&width=1440&preferwebp=true"
         },
         {
           "type": "Oligodendroglioma",
@@ -55,7 +55,7 @@
             "Chemotherapy"
           ],
           "info": "Oligodendroglioma is a type of brain tumor that originates in the cells that produce myelin, a fatty covering that protects nerves in the brain.",
-          "image_url": "https://example.com/oligodendroglioma.jpg"
+          "image_url": "https://neurochirurgie.insel.ch/fileadmin/_processed_/a/7/csm_Typisches-niedriggradiges-Astrozytom-Oligodendrogliom_a379082ff5.jpg"
         },
         {
           "type": "Anaplastic Astrocytoma",
@@ -68,7 +68,7 @@
             "Chemotherapy"
           ],
           "info": "Anaplastic astrocytoma is a type of brain tumor that arises from astrocytes, star-shaped cells that support nerve cells.",
-          "image_url": "https://example.com/anaplastic_astrocytoma.jpg"
+          "image_url": "https://www.aans.org/-/media/Images/AANS/Patients/grade2-3Astrocytoma.ashx"
         }
       ]
     }
